@@ -1,1 +1,1 @@
-"# OpenGL_CSharp_Tutorial" 
+請配合我的部落格的教程使用, 代碼用於演示如何使用OpenTK工具庫控制OpenGL繪製畫面
